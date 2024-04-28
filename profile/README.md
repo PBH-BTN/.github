@@ -7,6 +7,12 @@
 
 #### PeerBanHelper
 
+一切的开始，也是首个 BTN 协议的实现。使用 Java 语言编写的一个兼容 qBittorrent 和 Transmission 客户端的反吸血程序。通过 WebUI 获取数据、并通过预置/云端规则封禁找到的恶意吸血者。
+
 传送门：[[点击这里]](https://github.com/PBH-BTN/PeerBanHelper)
 
-一切的开始，也是首个 BTN 协议的实现。使用 Java 语言编写的一个兼容 qBittorrent 和 Transmission 客户端的反吸血程序。通过 WebUI 获取数据、并通过预置/云端规则封禁找到的恶意吸血者。
+#### BTN-Spec
+
+BTN 威胁防护网络的实现规范，鼓励更多人构建自己的 BTN 客户端/服务端实现。基于隐私考量设计，并满足多点分析的协议。
+
+传送门：[[点击这里]](https://github.com/PBH-BTN/BTN-Spec)
