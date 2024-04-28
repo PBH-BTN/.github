@@ -3,6 +3,8 @@
 欢迎来到 PBH-BTN 组织，我们是一群 BitTorrent 的热爱者。这里是一个以建设和维护健康的 BitTorrent 网络为目标的，由社区驱动的组织。  
 由最初的 Ghost-chu/PeerBanHelper 发展而来，在 hp/torrent 和 dt/torrent 等恶意的吸血者出现后，我们构想了一个 BTN 网络并付诸行动，并将 PBH 项目和 BTN 一起转移到了一个独立组织，与吸血和破坏者进行技术对抗。  
 
+*这永远是一场猫捉耗子的游戏*
+
 ### 看看我们的工作
 
 #### [PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper)
