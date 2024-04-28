@@ -16,3 +16,9 @@
 BTN 威胁防护网络的实现规范，鼓励更多人构建自己的 BTN 客户端/服务端实现。基于隐私考量设计，并满足多点分析的协议。
 
 传送门：[[点击这里]](https://github.com/PBH-BTN/BTN-Spec)
+
+#### BTN-Collected-Rules
+
+由 BTN 网络数据分析的来的 IP 规则集，其中包含了经过确认是恶意吸血/破坏者的 IP 地址。您可以将其加入系统防火墙来阻止它们连接到你。
+
+传送门：[[点击这里]](https://github.com/PBH-BTN/BTN-Collected-Rules)
