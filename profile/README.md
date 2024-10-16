@@ -9,7 +9,7 @@
 
 #### [PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper)
 
-一切的开始。使用 Java 语言编写的一个兼容 qBittorrent 和 Transmission 客户端的反吸血程序。通过 WebUI 获取数据、并通过预置/云端规则封禁找到的恶意吸血者。最初仅支持 qBittorrent 和 Transmisison，现在已经扩展到了 Deluge 和 BiglyBT。
+一切的开始。使用 Java 语言编写的一个兼容 qBittorrent 和 Transmission 客户端的反吸血程序。通过 WebUI 获取数据、并通过预置/云端规则封禁找到的恶意吸血者。最初仅支持 qBittorrent 和 Transmisison，现在已经扩展到了 Deluge、BiglyBT(Vuze/Azureus) 和实验性的 BitComet。
 
 #### [BTN-Collected-Rules](https://github.com/PBH-BTN/BTN-Collected-Rules)
 
