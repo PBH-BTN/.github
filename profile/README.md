@@ -6,13 +6,18 @@ Developed from the original `Ghost-chu/PeerBanHelper`, after the emergence of ma
 
 ### Community Resources
 
- [PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper)
+#### [PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper)
 
 The beginning of everything. A leecher countermeasure program written in Java that is compatible with qBittorrent and Transmission clients. It obtains data through WebUI and bans found malicious leechers through preset/cloud rules. Initially, it only supported qBittorrent and Transmission, but now it has expanded to Deluge, BiglyBT(Vuze/Azureus), and experimental BitComet.
 
- [BTN-Collected-Rules](https://github.com/PBH-BTN/BTN-Collected-Rules)
+#### [BTN-Collected-Rules](https://github.com/PBH-BTN/BTN-Collected-Rules)
 
 IP rule set derived from BTN network data analysis, which includes IP addresses confirmed to be malicious leechers/destroyers. You can add them to your system firewall to prevent them from connecting to you.
+
+
+#### [Trunker](https://github.com/PBH-BTN/trunker)
+
+High-performance Tracker server, which implements most of the popular BEP specifications, used to collect information in P2P networks for BTN analysis.
 <hr/>
 
 ## PBH-BTN
@@ -31,3 +36,9 @@ IP rule set derived from BTN network data analysis, which includes IP addresses 
 #### [BTN-Collected-Rules](https://github.com/PBH-BTN/BTN-Collected-Rules)
 
 由 BTN 网络数据分析的来的 IP 规则集，其中包含了经过确认是恶意吸血/破坏者的 IP 地址。您可以将其加入系统防火墙来阻止它们连接到你。
+
+#### [Trunker](https://github.com/PBH-BTN/trunker)
+
+高性能 Tracker 服务器，实现了绝大多数流行的 BEP 规范，用于在 P2P 网络中收集信息供 BTN 分析。
+
+
