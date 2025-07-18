@@ -35,7 +35,7 @@ High-performance Tracker server, which implements most of the popular BEP specif
 
 #### [BTN-Collected-Rules](https://github.com/PBH-BTN/BTN-Collected-Rules)
 
-由 BTN 网络数据分析的来的 IP 规则集，其中包含了经过确认是恶意吸血/破坏者的 IP 地址。您可以将其加入系统防火墙来阻止它们连接到你。
+由 BTN 网络数据分析得来的 IP 规则集，其中包含了经过确认是恶意吸血/破坏者的 IP 地址。您可以将其加入系统防火墙来阻止它们连接到你。
 
 #### [Trunker](https://github.com/PBH-BTN/trunker)
 
