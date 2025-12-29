@@ -18,6 +18,9 @@ IP rule set derived from BTN network data analysis, which includes IP addresses 
 #### [Trunker](https://github.com/PBH-BTN/trunker)
 
 High-performance Tracker server, which implements most of the popular BEP specifications, used to collect information in P2P networks for BTN analysis.
+
+#### [BT Tester](https://github.com/PBH-BTN/bt-tester)
+Know yourself, know your enemy, and you shall win a hundred battles without loss. This is an "evil" client emulator designed to test various PeerBanHelper rules.
 <hr/>
 
 ## PBH-BTN
@@ -41,4 +44,6 @@ High-performance Tracker server, which implements most of the popular BEP specif
 
 高性能 Tracker 服务器，实现了绝大多数流行的 BEP 规范，用于在 P2P 网络中收集信息供 BTN 分析。
 
+#### [BT Tester](https://github.com/PBH-BTN/bt-tester)
+知己知彼，百战不殆。这是一个“恶意”客户端模拟器，可以用于测试 PeerBanHelper 的各种规则。
 
